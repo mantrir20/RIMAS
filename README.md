@@ -23,6 +23,6 @@
 - SHA 256 is used as Hashing Algorithm.
 - The block addition requires computation of 1st five bits of hash value to be zero.
 
-**To Rum the program**
+**To Run the program**
 1. Clone the Repository
 2. In Linux, compile using g++ *.cpp
