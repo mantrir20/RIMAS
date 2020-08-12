@@ -26,3 +26,10 @@
 **To Run the program**
 1. Clone the Repository
 2. In Linux, compile using g++ *.cpp
+
+# Authors
+   1. Raunak Mantri
+   2. Ira Bhosale
+   3. Muskan Jain
+   4. Akshat Tiwari
+   5. Srishti Saraswat
